@@ -9,7 +9,7 @@ body {
     height: 100vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url('');
+    background-image: url('/imagem/dragonBallZZ.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
